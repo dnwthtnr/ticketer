@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "ticketer",
+					"jsonFile" : "directory-ticketer-Debug-639eb0e7fcaf209f0e5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "ticketer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "iFixAndTicket",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "iFixAndTicket::@8f9995e7edca3a062bd0",
+					"jsonFile" : "target-iFixAndTicket-Debug-45d917ca47338573a690.json",
+					"name" : "iFixAndTicket",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "iFixAndTicket_autogen::@8f9995e7edca3a062bd0",
+					"jsonFile" : "target-iFixAndTicket_autogen-Debug-a072cce3c2a55483fbdd.json",
+					"name" : "iFixAndTicket_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "iFixAndTicket_autogen_timestamp_deps::@8f9995e7edca3a062bd0",
+					"jsonFile" : "target-iFixAndTicket_autogen_timestamp_deps-Debug-212295b2bf220bc192c4.json",
+					"name" : "iFixAndTicket_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ifix/source/repos/ticketer/out/build/x64-debug",
+		"source" : "C:/Users/ifix/source/repos/ticketer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

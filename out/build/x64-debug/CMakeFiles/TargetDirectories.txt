@@ -1,0 +1,7 @@
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/CMakeFiles/iFixAndTicket.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/CMakeFiles/edit_cache.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/CMakeFiles/rebuild_cache.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/CMakeFiles/iFixAndTicket_autogen_timestamp_deps.dir
+C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/CMakeFiles/iFixAndTicket_autogen.dir

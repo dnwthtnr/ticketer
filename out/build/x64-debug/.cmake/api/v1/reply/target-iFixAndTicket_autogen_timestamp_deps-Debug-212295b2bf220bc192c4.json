@@ -1,0 +1,31 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"ticketer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "iFixAndTicket_autogen_timestamp_deps::@8f9995e7edca3a062bd0",
+	"isGeneratorProvided" : true,
+	"name" : "iFixAndTicket_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "ticketer",
+		"source" : "ticketer"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
