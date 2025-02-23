@@ -6,7 +6,6 @@ cmake_minimum_required (VERSION 3.25)
 project("iFixAndTicket")
 
 list(APPEND CMAKE_PREFIX_PATH "C:/Qt/6.5.3/msvc2019_64")
-list(APPEND CMAKE_PREFIX_PATH "C:/User/ifix/source/repos/json-develop/single_include")
 
 message(STATUS ${CMAKE_PREFIX_PATH})
 

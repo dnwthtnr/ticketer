@@ -1,16 +1,17 @@
 # ninja log v6
-32	192	7617031842841571	ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
-32	192	7617031842841571	ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
-32	192	7617031842841571	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
-32	192	7617031842841571	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
-200	399	7617031843493662	ticketer/CMakeFiles/iFixAndTicket.dir/iFixAndTicket_autogen/mocs_compilation.cpp.obj	f3f2131d0fc37794
-218	4579	7617031843689936	ticketer/CMakeFiles/iFixAndTicket.dir/mainwindow.cpp.obj	5306f3b44def0fae
-56	167	7617033774693811	ticketer/CMakeFiles/iFixAndTicket.dir/iFixAndTicket_autogen/mocs_compilation.cpp.obj	526e62bc7899448a
-79	4143	7617033774907620	ticketer/CMakeFiles/iFixAndTicket.dir/mainwindow.cpp.obj	a3a2e44e10ad582c
 68	274	7617034085789773	ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
 68	274	7617034085789773	ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
 68	274	7617034085789773	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
 68	274	7617034085789773	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
+56	167	7617033774693811	ticketer/CMakeFiles/iFixAndTicket.dir/iFixAndTicket_autogen/mocs_compilation.cpp.obj	526e62bc7899448a
+79	4143	7617033774907620	ticketer/CMakeFiles/iFixAndTicket.dir/mainwindow.cpp.obj	a3a2e44e10ad582c
 276	4059	7617034087871466	ticketer/CMakeFiles/iFixAndTicket.dir/core.cpp.obj	6209945625ff4968
 282	5796	7617034087931790	ticketer/CMakeFiles/iFixAndTicket.dir/iFixAndTicket.cpp.obj	375b42aec0be7c93
 5796	6262	7617034143075383	iFixAndTicket.exe	c1f661d349f8da3
+63	217	7617063414034543	ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
+63	217	7617063414034543	ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
+63	217	7617063414034543	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/timestamp	ba86a3d282497e31
+63	217	7617063414034543	C:/Users/ifix/source/repos/ticketer/out/build/x64-debug/ticketer/iFixAndTicket_autogen/mocs_compilation.cpp	ba86a3d282497e31
+219	4186	7617063415594944	ticketer/CMakeFiles/iFixAndTicket.dir/core.cpp.obj	6209945625ff4968
+225	5883	7617063415669189	ticketer/CMakeFiles/iFixAndTicket.dir/iFixAndTicket.cpp.obj	375b42aec0be7c93
+5883	6138	7617063472240645	iFixAndTicket.exe	c1f661d349f8da3
